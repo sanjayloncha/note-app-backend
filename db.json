@@ -8,7 +8,11 @@
   ],
   "users": [
     {
-      
+      "id" : "1",
+      "firstName" : "sam",
+      "lastName" : "bill",
+      "email" : "sam@gmail.com",
+      "password" : "11111"
     }
   ]
 }
