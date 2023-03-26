@@ -1,18 +1,31 @@
 {
-  "note": [
+  "users" : [
     {
-      "id":"1",
-      "title" : "title1",
-      "body" : "body1"
-    }
-  ],
-  "users": [
-    {
-      "id" : "1",
+    "id" : "1",
       "firstName" : "sam",
       "lastName" : "bill",
       "email" : "sam@gmail.com",
-      "password" : "11111"
+      "password" : "11111",
+      "note": [
+        {
+          "id":"1",
+          "title" : "title1",
+          "body" : "body1"
+        }
+      ]
+    },{
+      "id" : "2",
+      "firstName" : "jerry",
+      "lastName" : "root",
+      "email" : "jerry@gmail.com",
+      "password" : "55555",
+      "note": [
+        {
+          "id":"1",
+          "title" : "title1",
+          "body" : "body1"
+        }
+      ]
     }
   ]
 }
